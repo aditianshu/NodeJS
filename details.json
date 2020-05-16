@@ -1,0 +1,23 @@
+[
+    { "user":
+    {
+        "userDetails":{
+                "userName" :  "Aditi",
+                "phoneNumber" : "9546106708",
+                "clinicID":"8909090"
+        },
+        "doctorList":{
+            "doctorID":"45678",
+            "appointments":{
+                "patientName":"Rak",
+                "patientAge":"18",
+                "amountPaid": "1200",
+                "amountDue":"300",
+                "date":"20/2/20",
+                "address":"Ganga Hostel"
+            }
+        }
+    }
+}
+    
+]
